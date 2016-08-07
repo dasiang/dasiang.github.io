@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://dasiang.github.io
+title: ÉÆ¾í¶´
+email: zan0202@gmail.com
+author: dasiang
+description: My awesome new site
+paginate: 10
+google_analytics: 
